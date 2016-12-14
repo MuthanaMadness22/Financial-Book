@@ -2,6 +2,7 @@
 #The code is designed for my personal use. This helps keeps track of how much I spent on a weekly basis. 
 import time
 
+#The data will be uploaded and saved on a seperate folder
 test = open('sheet.txt', 'a')
 
 
